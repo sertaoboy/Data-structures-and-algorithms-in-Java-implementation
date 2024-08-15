@@ -1,3 +1,13 @@
+# Conteudo de Data Structure
+- Listas
+- Pilhas
+- Filas
+- HashTables
+- Tree
+
+
+
+
 Estruturas de dados:
 
 Listas 
